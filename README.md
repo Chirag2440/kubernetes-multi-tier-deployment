@@ -95,20 +95,6 @@ Application Access
 - Exposed applications using Kubernetes Ingress.
 - Deployed MySQL, RabbitMQ, Memcached, and Tomcat as Kubernetes workloads.
 
----
-
-# 📸 Screenshots
-
-- Docker Images
-- Docker Compose
-- Kubernetes Pods
-- Services
-- Persistent Volume Claim
-- Ingress
-- Application Running
-
----
-
 # 📁 Repository Structure
 
 ```text
